@@ -1,0 +1,1 @@
+docker run --name najuwiki2 -v /srv/docker/najuWiki/www/htdocs/:/var/www/html/ -d najuwiki
